@@ -1,1 +1,2 @@
-Just a Simple calculator made by python
+Just a Simple calculator made using python.
+:3
